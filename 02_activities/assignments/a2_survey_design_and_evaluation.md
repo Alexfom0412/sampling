@@ -40,30 +40,93 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#2`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to understand the priorities, concerns, and expectations of Canadian voters ahead of the upcoming federal election. The results will help the party adjust its messaging, platform focus, and leader engagement strategies in order to maximise its chances of winning.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: eligible Canadian voters aged 18 and older
+Sampling Frame: a list of opted-in participants from a public polling panel(e.g. Delvinia / AskingCanadians Panel)
+Sampling Units: individual eligible voters
+Sampling Strategy: stratified random sampling based on province, age, and gender to ensure national representation
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How likely are you to vote in the upcoming federal election?
+   a. Very likely
+   b. Likely
+   c. Unlikely
+   d. Very unlikely
+
+2. Which federal party are you planning to vote for?
+   a. Liberal
+   b. Conservative
+   c. New Democratic
+   d. Green
+   e. Bloc Quebecois
+   f. Undecided
+   g. Prefer not to say
+
+3. Which media sources do you use most often to get election-related information? (Select all that apply)
+   a. Television
+   b. Radio
+   c. Newspapers (print or online)
+   d. Social media (e.g. X, Facebook)
+   e. Party websites
+   f. Other (please specify):
+
+4. What social media platforms do you use most often to follow political news or updates? (Select all that apply)
+   a. Facebook
+   b. Instagram
+   c. X
+   d. TikTok
+   e. YouTube
+   f. Other (please specify):
+   g. None
+
+5. What are the three most significant issues for you in this election?
+   a. Economy
+   b. Healthcare
+   c. Environment and climate change
+   d. International affairs
+   e. Housing
+   f. Taxes
+   g. Education
+   h. Immigration
+   i. Public safety
+   j. Other (please specify):
+
+6. What qualities in a party leader are most important to you?
+   a. Honesty
+   b. Strong leadership
+   c. Experience
+   d. Communication skills
+   e. Clear policy vision
+   f. Other (please specify):
+
+7. What would make you more likely to support a political party in this election?
+   a. Stronger economy
+   b. Lower taxes
+   c. Better healthcare
+   d. More affordable housing
+   e. Action on climate change
+   f. Stronger leadership
+   g. Other (please specify):
+
+8. What is your biggest concern about the future of Canada?
+   a. Economy
+   b. Healthcare system
+   c. Education system
+   d. Climate change
+   e. National safety and security
+   f. Political corruption
+   g. Other (please specify):
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +134,39 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: a stratified random sample without replacement based on geographic areas within 10 provinces
+
+2. Sample size: 20,000 (target); 16,149 (actual)
+
+3. Target population Canadians aged 15 and older living in private homes in the 10 provinces (territories and full-time residents of institutions were excluded)
+
+4. Sampling frame: lists of telephone numbers in use available to Statistics Canada;the Address Register (list of all dwellings withing 10 provinces)
+
+5. Survey mode(s): completed electronically via self-completed questionnaire or via computer-assisted telephone interviews
+
+6. Timeline: The survey was done between September 4th and December 28th 2018
+
+7. Response rate: 41.9%
+
+8. Weights: applied to adjust for sampling design and non-response, ensuring representativeness of the data; used post-stratification weights based on demographic characteristics (age-sex; income distribution)
+
+9. Data processing: involved data cleaning, coding, and validation to ensure accuracy and consistency
+
+10. Cleaning, imputation, etc: duplicate records were removed during cleaning; invalid or missing data were addressed using imputation techniques
+
+11. Sources of error:
+a. Non-sampling errors: interviewers may misunderstand instructions; respondents may make errors in answering questions; the answers may be incorrectly entered into the electronic questionnaire system; and errors may be introduced in the processing and tabulation of the data. 
+b. Sampling errors: unavoidable, estimated by the standard error from the sample data
+
+12. Limitations, known biases, etc 
+a. The survey excluded individuals without telephones, those in institutions, or living in 3 territories, potentially omitting certain demographic groups.
+b. Certain groups were less likely to respond, affecting the representativeness of the data (age-based,income-based etc.)
+c. More general, respondent misunderstanding or misreporting can lead to inaccuracies. 
+
+13. Link to documentation and any additional sources used
+General Social Survey – Public Use Microdata Files: https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm#a5
+
+2018 General Social Survey (Cycle 33): Giving, Volunteering and Participating Public Use Microdata File Documentation and User Guide: https://www150.statcan.gc.ca/n1/en/catalogue/45250011
 ```
 
 ## Rubric
